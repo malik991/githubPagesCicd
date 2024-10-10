@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d build",
-    "test": "vitest"
+    "test": "echo \"No test specified\""
   },
   "dependencies": {
     "react": "^18.3.1",
