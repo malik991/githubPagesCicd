@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://malik991.github.io/demo-cicd",
+  "homepage": "https://malik991.github.io/githubPagesCicd",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
